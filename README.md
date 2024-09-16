@@ -54,7 +54,7 @@ Ensure you have Node.js and npm installed. You can download them from the [offic
 1. **Clone the Repository** (if applicable):
 
    ```bash
-   git clone https://github.com/yourusername/hxreact-setup.git
+   git clone https://github.com/HxHippy/hxreact.git
    cd hxreact-setup
    ```
 
