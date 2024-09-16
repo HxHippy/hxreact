@@ -60,7 +60,7 @@ Welcome to the **HxReact** FAQ section! Here you'll find answers to common quest
 
 **HxHippy** is the creator and maintainer of HxReact. An experienced developer passionate about simplifying development workflows and contributing to the open-source community.
 
-- **Twitter**: [@HxHippy](https://twitter.com/HxHippy)
+- **X**: [@HxHippy](https://x.com/HxHippy)
 - **Website**: [hxhippy.com](https://hxhippy.com)
 
 ### Why should I use HxReact over other setup tools?
