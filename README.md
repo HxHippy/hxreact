@@ -188,7 +188,7 @@ Ever heard of **TRaViS**? It's the **Threat Reconnaissance and Vulnerability Int
 
 If you like **HxReact**, please consider sharing it with others who might find it useful.
 
-- **Tweet About It**: [Click here to share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20HxReact%20-%20an%20awesome%20interactive%20script%20for%20setting%20up%20React%20projects!%20%23ReactJS%20%23JavaScript&url=https://github.com/hxhippy/hxreact)
+- **Tweet About It**: [Click here to share on X](https://twitter.com/intent/tweet?text=Check%20out%20HxReact%20-%20an%20awesome%20interactive%20script%20for%20setting%20up%20React%20projects!%20%23ReactJS%20%23JavaScript&url=https://github.com/hxhippy/hxreact)
 - **Share on LinkedIn**: [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/hxhippy/hxreact-setup)
 
 ---
