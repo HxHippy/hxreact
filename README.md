@@ -40,7 +40,7 @@ An **automated**, **interactive** script for setting up a customized **React** a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hxreact-setup.git
+git clone https://github.com/hxhippy/hxreact.git
 
 # Navigate into the directory
 cd hxreact-setup
