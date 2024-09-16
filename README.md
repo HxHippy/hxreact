@@ -212,8 +212,7 @@ If you like **HxReact**, please consider sharing it with others who might find i
 For any inquiries or feedback, you can reach out to:
 
 - **Email**: [contact@hxhippy.com](mailto:contact@hxhippy.com)
-- **Twitter**: [@HxHippy](https://twitter.com/HxHippy)
-- **LinkedIn**: [HxHippy's Profile](https://www.linkedin.com/in/hxhippy)
+- **X**: [@HxHippy](https://x.com/HxHippy)
 
 ---
 
