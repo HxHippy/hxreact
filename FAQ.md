@@ -298,7 +298,7 @@ Please ensure your code adheres to the existing coding conventions and passes al
 
 ### Where can I report bugs or request features?
 
-- **GitHub Issues**: Open an issue in the [GitHub repository](https://github.com/yourusername/hxreact-setup/issues) for bugs or feature requests.
+- **GitHub Issues**: Open an issue in the [GitHub repository](https://github.com/hxhippy/hxreact-setup/issues) for bugs or feature requests.
 - **Contact Us**: For direct communication, see the [Contact](#📬-contact) section.
 
 ### How can I contact the maintainer?
@@ -306,7 +306,7 @@ Please ensure your code adheres to the existing coding conventions and passes al
 You can reach out to HxHippy via:
 
 - **Email**: [contact@hxhippy.com](mailto:contact@hxhippy.com)
-- **Twitter**: [@HxHippy](https://twitter.com/HxHippy)
+- **X**: [@HxHippy](https://x.com/HxHippy)
 - **Website**: [hxhippy.com](https://hxhippy.com)
 
 ---
@@ -351,7 +351,7 @@ Yes! You can support us by:
 If you have any questions, suggestions, or need assistance, feel free to reach out:
 
 - **Email**: [contact@hxhippy.com](mailto:contact@hxhippy.com)
-- **Twitter**: [@HxHippy](https://twitter.com/HxHippy)
+- **X**: [@HxHippy](https://x.com/HxHippy)
 - **Website**: [hxhippy.com](https://hxhippy.com)
 - **GitHub Issues**: [Submit an Issue](https://github.com/yourusername/hxreact-setup/issues)
 
