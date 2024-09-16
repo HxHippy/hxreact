@@ -331,7 +331,10 @@ Please ensure your code adheres to the existing coding conventions and passes al
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+**Attribution Notice**: Users of this software must preserve the [NOTICE](NOTICE) file, which includes attribution to the original author and associated entities.
+
 
 ---
 
